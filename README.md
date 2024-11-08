@@ -1,0 +1,1 @@
+This project automates network device management through SNMP, NETCONF, and RESTCONF protocols. It handles tasks such as monitoring router interfaces, configuring and removing VLANs, retrieving interface statistics, and simulating faults. Java tools are used to manage alarms and correlate issues like packet loss and high utilization to pinpoint root causes.
